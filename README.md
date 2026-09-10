@@ -2,6 +2,8 @@
 
 LevelUp is a personal gym training assistant that helps users track and manage their workouts. Users can perform CRUD operations to add, view, update, and delete workout records, making it easy to monitor progress and stay motivated.
 
+<img width="1896" height="862" alt="Screenshot 2026-09-10 224029" src="https://github.com/user-attachments/assets/f62ec3a5-deca-4dff-8075-53c22b2fc9f8" />
+
 ## Features
 
 - Add, view, update, and delete workouts
